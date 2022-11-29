@@ -8,16 +8,16 @@ CLICK LINK DISAMPING UNTUK MENUJU FILE KUIS : [cypress/e2e/malangsnacks_cypress/
 
 TEST CASE 1
 1. Valid Email
-2. Invalid Password
+2. Invalid Password <br>
 Output = Gagal - Email atau Password Salah
 
 
 TEST CASE 2
 1. Incorrect Email Format
-2. Valid Password
+2. Valid Password <br>
 Output = Gagal - Email tidak Valid
 
 TEST CASE 3
 1. Valid Email
-2. Valid Password
+2. Valid Password <br>
 Output = Berhasil - Berhasil Login Selamat Datang Welson Mario
